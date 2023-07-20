@@ -1,0 +1,8 @@
+C:\Users\basan\OneDrive\Desktop\Training\Day1\Assignment-11\Assignment-11\bin\Debug\Assignment-11.exe.config
+C:\Users\basan\OneDrive\Desktop\Training\Day1\Assignment-11\Assignment-11\bin\Debug\Assignment-11.exe
+C:\Users\basan\OneDrive\Desktop\Training\Day1\Assignment-11\Assignment-11\bin\Debug\Assignment-11.pdb
+C:\Users\basan\OneDrive\Desktop\Training\Day1\Assignment-11\Assignment-11\obj\Debug\Assignment-11.csproj.AssemblyReference.cache
+C:\Users\basan\OneDrive\Desktop\Training\Day1\Assignment-11\Assignment-11\obj\Debug\Assignment-11.csproj.SuggestedBindingRedirects.cache
+C:\Users\basan\OneDrive\Desktop\Training\Day1\Assignment-11\Assignment-11\obj\Debug\Assignment-11.csproj.CoreCompileInputs.cache
+C:\Users\basan\OneDrive\Desktop\Training\Day1\Assignment-11\Assignment-11\obj\Debug\Assignment-11.exe
+C:\Users\basan\OneDrive\Desktop\Training\Day1\Assignment-11\Assignment-11\obj\Debug\Assignment-11.pdb
